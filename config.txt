@@ -3,9 +3,9 @@
 # 公众号appId
 "app_id": "wxdcf175312ce0429c",
 # 公众号appSecret
-"app_secret": "71pCFHYk95lK_v6yhdzcJAzi0cKYC8nlYyYrrh2o16Y",
+"app_secret": "ab04888b4ff990d93d1a83d1bb86311f",
 # 模板消息id
-"template_id": "x6vik6peLd4jTzk6TPInBKctxrcX9yXgRgVH6lTJPV0",
+"template_id": "71pCFHYk95lK_v6yhdzcJAzi0cKYC8nlYyYrrh2o16Y",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oPdlv549l2MuczMr-GS_48wU8lRI"],
 
